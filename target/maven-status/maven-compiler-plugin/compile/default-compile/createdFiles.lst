@@ -1,0 +1,4 @@
+com\example\demo\DemoApplication.class
+com\example\demo\controllers\PrimoControlador.class
+com\example\demo\model\Proceso.class
+com\example\demo\service\Operaciones.class
